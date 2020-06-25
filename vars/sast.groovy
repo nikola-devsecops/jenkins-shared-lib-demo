@@ -1,4 +1,4 @@
-def runCoverity(message) {
+def runCoverity(bd) {
   echo "[INFO] Running Coverty on: ${bd}"
 }
 
